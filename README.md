@@ -1,3 +1,5 @@
+# NOTE: This repo is not currently monitored or maintained
+
 # coinbase-java
 
 An easy way to buy, sell, send, and accept [bitcoin](http://en.wikipedia.org/wiki/Bitcoin) through the [Coinbase API](https://coinbase.com/docs/api/overview).
